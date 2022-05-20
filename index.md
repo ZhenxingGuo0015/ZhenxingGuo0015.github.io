@@ -55,6 +55,7 @@ Professor <a href="http://www.haowulab.org">Hao Wu</a>. My
 research interests focus on statistical modeling for large scale genomic data. In addition to methodology research,
 I'm also interested in collaboration projects with Biologist. My collaboration project involves the study of cancer
 and Alzheimer's disease. 
+
 <!-- My work has been published on influential journals such as Nature Method, Nature Genetics, Genome Research, and Genome Biology. We developed a number of open source software tools. We have contributed several packages freely available on Bioconductor, with over 30,000 combined downloads annually. See [Publication](http://www.haowulab.org//pages/pubs.html) and [Software](http://www.haowulab.org//pages/software.html) pages for detail. 
 -->
 
@@ -72,8 +73,8 @@ I will join Chinese University of Hong Kong, Shenzhen as a tenure-track assistan
  [ <a href="https://scholar.google.com.hk/citations?user=hm0mP4EAAAAJ&hl=zh-CN">Goolge Scholar</a>]
 <p>
 <p>
-<p>
 
+### Honors and Awards
 
 <!-- <img src="assets/pics/ZhenxingGuo.jpeg" width="100"> -->
 
