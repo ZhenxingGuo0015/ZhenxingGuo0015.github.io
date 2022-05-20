@@ -59,7 +59,7 @@ and Alzheimer's disease.
 
 <p>
 Zhenxing received a BS in <a href="http://www-en.hnu.edu.cn/">applied mathematics</a> in 2014 from the
-Hunan Univeristy;Changsha China, and a MS in <a href="http://english.amss.cas.cn/">operational research</a> in 2017 from the Academy of Mathematics and Systems Science at Chinese Academy of Sciences, Beijing; her MS advisor was <a href="http://www.zhanglab-amss.org/homepage/">Professor Shihua Zhang</a>. She obtained her PhD in <a href="https://www.sph.emory.edu/departments/bios/index.html">Biostatistics</a> in 2022 from the Department of Biostatistics and Bioinformatics at Emory University; her PhD advisor is <a href="http://www.haowulab.org/">Professor Hao Wu</a>. She will join the <a href="https://www.cuhk.edu.cn/en/taxonomy/term/48">School of Data Science, Chinese Univeristy of Hong Kong, Shenzhen</a> as a tenure-track assistant professor in the fall of 2022. 
+Hunan Univeristy;Changsha China, and a MS in <a href="http://english.amss.cas.cn/">Operational Research</a> in 2017 from the Academy of Mathematics and Systems Science at Chinese Academy of Sciences, Beijing; her MS advisor was <a href="http://www.zhanglab-amss.org/homepage/">Professor Shihua Zhang</a>. She obtained her PhD in <a href="https://www.sph.emory.edu/departments/bios/index.html">Biostatistics</a> in 2022 from the Department of Biostatistics and Bioinformatics at Emory University; her PhD advisor is <a href="http://www.haowulab.org/">Professor Hao Wu</a>. She will join the <a href="https://www.cuhk.edu.cn/en/taxonomy/term/48">School of Data Science, Chinese Univeristy of Hong Kong, Shenzhen</a> as a tenure-track assistant professor in the fall of 2022. 
 
 
 <p>
