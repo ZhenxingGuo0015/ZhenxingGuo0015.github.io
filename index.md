@@ -50,23 +50,19 @@ keywords: statistics, biostatistics, biometrics,
 
 <hr />
 
+
 I am now a Ph.D. candidate of the Department of Biostatistics and Bioformatics at Emory University, working with
 Professor <a href="http://www.haowulab.org">Hao Wu</a>. My
 research interests focus on statistical modeling for large scale genomic data. In addition to methodology research,
 I'm also interested in collaboration projects with Biologist. My collaboration project involves the study of cancer
 and Alzheimer's disease. 
 
-<!-- My work has been published on influential journals such as Nature Method, Nature Genetics, Genome Research, and Genome Biology. We developed a number of open source software tools. We have contributed several packages freely available on Bioconductor, with over 30,000 combined downloads annually. See [Publication](http://www.haowulab.org//pages/pubs.html) and [Software](http://www.haowulab.org//pages/software.html) pages for detail. 
--->
-
-
 <p>
-I joined the department in 2017 after obtaining my M.S.
-degree in Operational Research from the
-<a href="http://english.amss.cas.cn/">Academy of Methametics and Systems Science at Chinese Academy of Sciences</a>,
-under the guidances of professor
-<a href="http://www.zhanglab-amss.org/homepage/">Shihua Zhang</a>.
-I will join Chinese University of Hong Kong, Shenzhen as a tenure-track assistant professor in November 2022.
+Zhenxing received a BS in [applied mathematics](http://www-en.hnu.edu.cn/)
+in 2014 from the
+Hunan Univeristy;Changsha China, and a M.S in [operational research](http://english.amss.cas.cn/) in 2017 from the Academy of Mathematics and Systems Science at Chinese Academy of Sciences, Beijing; her M.S. advisor was Professor [Shihua Zhang](http://www.zhanglab-amss.org/homepage/). She obtained her PhD in [Biostatistics]() in 2022 from the Department of Biostatistics and Bioinformatics at Emory University; her PhD advisor is Professor [Hao Wu](http://www.haowulab.org/). She will join the [School of Data Science, Chinese Univeristy of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en/taxonomy/term/48) as a tenure-track assistant professor in the fall of 2022. 
+
+
 <p>
 <!-- [ <a href="pages/bio.html">Hao Wu's short biography</a> ]  -->
  [ <a href="assets/Guo_CV.pdf">CV in pdf</a> ]
