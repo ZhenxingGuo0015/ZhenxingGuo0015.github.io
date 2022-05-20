@@ -1,43 +1,22 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Zhenxing Guo is currently a Ph.D. candidate within the Department of Biostatistics and Bioinformatics at Emroy University, working with Professor Hao Wu. 
 ---
 
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](https://rqtl.org) and [R/qtl2](https://kbroman.org/qtl2) (for
-[R](https://www.r-project.org)).
+Zhenxing Guo is a Ph.D. candiate in the
+[Department of Biostatistics & Bioinformatics; Rollins School of Public Health](https://www.biostat.wisc.edu)
+at Emory University;
+research in the development of statistically principled and computationally efficient tools and methods for the analysis of big biomedical data, in particular, omics data. developer of
+[TRESS](https://www.bioconductor.org/packages/release/bioc/html/TRESS.html) (for [R/Bioconductor](https://www.bioconductor.org/)).
 
-Karl received a BS in [mathematics](https://uwm.edu/math)
-in 1991 from the
-University of Wisconsin&ndash;Milwaukee, and a
-PhD in [statistics](https://statistics.berkeley.edu) in 1997 from the
-University of California, Berkeley; his PhD advisor was
-[Terry Speed](https://www.wehi.edu.au/people/terry-speed).
-He was a postdoctoral fellow with James Weber at the
-[Marshfield Clinic Research Foundation](https://www.marshfieldresearch.org),
-1997&ndash;1999. He
-was a faculty member in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at Johns
-Hopkins University, 1999&ndash;2007. In 2007, he moved to the
-[University of Wisconsin&ndash;Madison](https://www.wisc.edu).
+Zhenxing received a BS in [applied mathematics](http://www-en.hnu.edu.cn/)
+in 2014 from the
+Hunan Univeristy;Changsha China, and a M.S in [operational research]() in 2017 from the Academy of Mathematics and Systems Science at Chinese Academy of Sciences, Beijing; her M.S. advisor was Professor [Shihua Zhang](). She obtained her PhD in [Biostatistics]() in 2022 from the Department of Biostatistics and Bioinformatics at Emory University; her PhD advisor is Professor [Hao Wu](). She will join the School of Data Science at Chinese Univeristy of Hong Kong, Shenzhen as a tenure-track assistant professor in the fall of 2022. 
 
-Karl is an applied statistician focusing on problems in genetics and
-genomics &ndash; particularly the analysis of meiotic recombination and the
-genetic dissection of complex traits in experimental organisms.
-He is an enthusiastic advocate for open science, open software,
-reproducible research, and interactive data visualization.
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
-[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
-[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
-[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/>
-<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
-[github](https://github.com/kbroman)<br/>
-[blog](https://kbroman.org/blog/) <br/>
-he/him
+Zhenxing is an applied statistician focusing on problems in genomic data; particularly the analysis of RNA methylation sequencing data.
+
 
 ---
 
