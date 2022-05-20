@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Zhenxing Guo is currently a Ph.D. candidate within the Department of Biostatistics and Bioinformatics at Emroy University, working with Professor Hao Wu. 
+description: Zhenxing Guo is currently a Ph.D. candidate within the Department of Biostatistics and Bioinformatics at Emory University, working with Professor Hao Wu. 
 ---
 
 Zhenxing Guo is a Ph.D. candiate in the
