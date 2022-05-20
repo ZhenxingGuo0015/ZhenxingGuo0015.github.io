@@ -19,7 +19,7 @@ description: Zhenxing Guo's software
 ---
 
 #### <a name="Bioconductor"></a>[TRESS](https://www.bioconductor.org/packages/release/bioc/html/TRESS.html)
-[Bioconductor] (https://www.bioconductor.org/) package for 
+[Bioconductor](https://www.bioconductor.org/) package for 
 
 ---
 
