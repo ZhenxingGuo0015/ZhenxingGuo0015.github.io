@@ -75,6 +75,6 @@ I will join Chinese University of Hong Kong, Shenzhen as a tenure-track assistan
 <p>
 
 
-<img src="assets/pics/ZhenxingGuo.jpeg" width="100">
+<!-- <img src="assets/pics/ZhenxingGuo.jpeg" width="100"> -->
 
 
