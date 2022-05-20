@@ -4,7 +4,7 @@ title: talks
 description: Zhenxing Guo's talks
 ---
 
-Statistical method and tools for RNA methylation sequencing analysis. Virtual hosted by the [Harry Feng lab]([https://www.sydney.edu.au/charles-perkins-centre/our-research/research-groups/david-james-lab.html](https://hfenglab.org/)),
+Statistical method and tools for RNA methylation sequencing analysis. Virtual hosted by the [Harry Feng lab](https://hfenglab.org/),
 [Department of Population and Quantitative Health Sciences, School of
 Medicine, Case Western Reserve University]([https://www.sydney.edu.au/](https://case.edu/medicine/pqhs/)) (_May 2022_)
 
