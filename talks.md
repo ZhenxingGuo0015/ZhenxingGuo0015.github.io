@@ -3,6 +3,18 @@ layout: page
 title: talks
 description: Zhenxing Guo's talks
 ---
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#presentation">Presentations</a></li>
+            <li><a href="#talks">Talks</a></li>
+                      <!-- <li><a href="#techreports">tech reports</a></li> -->
+                      <!-- <li><a href="#thesis">dissertation</a></li> -->
+        </ul>
+    </div>
+</div>
+
+### <a name="Talks"></a> Invited Talks/Lectures
 
 Statistical method and tools for RNA methylation sequencing analysis. Virtual hosted by the [Harry Feng lab](https://hfenglab.org/),
 [Department of Population and Quantitative Health Sciences, School of
