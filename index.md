@@ -24,7 +24,7 @@ keywords: statistics, biostatistics, biometrics,
         <div class="span2">
             <a href="assets/pics/ZhenxingGuo.jpeg">
             <img src="assets/pics/ZhenxingGuo.jpeg"
-                  title="Zhenxing Guo" alt="Zhenxing Guo"  width="100"/></a>
+                  title="Zhenxing Guo" alt="Zhenxing Guo"  width="300"/></a>
         </div>
 
         <div class="span5">
@@ -54,8 +54,8 @@ keywords: statistics, biostatistics, biometrics,
 
 I am now a Ph.D. candidate of the Department of Biostatistics and Bioformatics at Emory University, working with
 Professor <a href="http://www.haowulab.org">Hao Wu</a>. My
-research interests focus on statistical modeling for large scale genomic data. In addition to methodology research,
-I'm also interested in collaboration projects with Biologist. My collaboration project involves the study of cancer
+research interests focus on the development of statistically principled and computationally efficient methd and tools for the analysis of biomedical data, in particular, omics data. In addition to methodology research,
+I'm also interested in collaboration projects with clinician and Biologist. My collaboration project involves the study of asthma, cancer
 and Alzheimer's disease. 
 
 <p>
