@@ -5,6 +5,7 @@ description: Zhenxing Guo is currently a Ph.D. candiadte in the Department of Bi
 keywords: statistics, biostatistics, biometrics,
    bioinformatics, genomics,
    RNA Epigenetics, MeRIP-seq, TRESS
+   
 ---
 <!--
 <div class="navbar">
@@ -63,7 +64,6 @@ Hunan Univeristy;Changsha China, and a MS in <a href="http://english.amss.cas.cn
 
 
 <p>
-<!-- [ <a href="pages/bio.html">Hao Wu's short biography</a> ]  -->
  [ <a href="assets/Guo_CV.pdf">CV in pdf</a> ]
  [ <a href="https://scholar.google.com.hk/citations?user=hm0mP4EAAAAJ&hl=zh-CN">Goolge Scholar</a>]
 <p>
