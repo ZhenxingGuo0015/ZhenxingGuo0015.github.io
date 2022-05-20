@@ -7,17 +7,9 @@ keywords: statistics, biostatistics, biometrics,
    RNA Epigenetics, MeRIP-seq, TRESS
    
 ---
-<!--
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="https://scholar.google.com/citations?user=nDSGBakAAAAJ&hl=en">Google Scholar</a></li>
-          <li><a href="https://github.com/benliemory">Github</a></li>
-      </ul>
-  </div>
--->
 
 <div class="container">
+   <h4><a name="contact"></a>About me</h4>
 
     <div class="row-fluid">
         
@@ -49,8 +41,9 @@ keywords: statistics, biostatistics, biometrics,
 
 
 
-<hr /> Bio
+<!-- <hr /> -->
 
+### Bio
 
 I am now a Ph.D. candidate of the Department of Biostatistics and Bioformatics at Emory University, working with
 Professor <a href="http://www.haowulab.org">Hao Wu</a>. My
