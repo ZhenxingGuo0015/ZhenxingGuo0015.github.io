@@ -18,7 +18,7 @@ description: Zhenxing Guo's publications
 </div>
 
 ### <a name="articles"></a>journal articles
-- **MeRIP-seq**:
+**MeRIP-seq**:
 * **Z. Guo**, A. M. Shafik, P. Jin, H. Wu (202x) Differential RNA Methylation Analysis for MeRIP-seq Data under General Experimental Design. Bioinformatics, under revision.
 * **Z. Guo**, Andrew M Shafik, Peng Jin, Zhijin Wu, Hao Wu, Detecting m6A methylation regions from Methylated RNA Immunoprecipitation Sequencing. _Bioinformatics_, (2021). [[link]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab181/6173980)
 * A. M. Shafik, F. Zhang, **Z. Guo**, Q. Dai, K. Pajdzik, Y. Li, Y. Kang, B. Yao, H. Wu, C. He, E. G. Allen, R. Duan, P. Jin. N6-methyladenosine dynamics in neurodevelopment and aging, and its potential role in Alzheimer’s disease. _Genome Biology_, (2021), 22(1):1-19. [[link]](https://link.springer.com/article/10.1186/s13059-020-02249-z)
