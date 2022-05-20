@@ -24,7 +24,7 @@ keywords: statistics, biostatistics, biometrics,
         <div class="span2">
             <a href="assets/pics/ZhenxingGuo.jpeg">
             <img src="assets/pics/ZhenxingGuo.jpeg"
-                  title="Zhenxing Guo" alt="Zhenxing Guo"  width="300"/></a>
+                  title="Zhenxing Guo" alt="Zhenxing Guo"  width="100"/></a>
         </div>
 
         <div class="span5">
