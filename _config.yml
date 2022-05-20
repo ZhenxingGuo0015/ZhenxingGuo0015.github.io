@@ -9,6 +9,7 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Zhenxing Guo
+logo: /assets/pics/ZhenxingGuo.jpeg
 author :
   name : Zhenxing Guo
   email : zhenxing.guo@emory.edu
