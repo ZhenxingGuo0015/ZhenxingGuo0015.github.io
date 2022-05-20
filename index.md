@@ -66,7 +66,7 @@ Hunan Univeristy;Changsha China, and a MS in <a href="http://english.amss.cas.cn
 <p>
  [ <a href="assets/Guo_CV.pdf">CV in pdf</a> ]
  [ <a href="https://scholar.google.com.hk/citations?user=hm0mP4EAAAAJ&hl=zh-CN">Goolge Scholar</a>]
- [ <a href="https://orcid.org/0000-0003-1681-1337">orcid: 0000-0003-1681-1337</a>]
+ [ <a href="https://orcid.org">orcid</a>]: [<a href="https://orcid.org/0000-0003-1681-1337">0000-0003-1681-1337</a>]
 
 <p>
 <p>
