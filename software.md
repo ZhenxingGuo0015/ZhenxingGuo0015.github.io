@@ -19,17 +19,17 @@ description: Zhenxing Guo's software
 ---
 
 #### <a name="Bioconductor"></a>[TRESS](https://www.bioconductor.org/packages/release/bioc/html/TRESS.html)
-[Bioconductor](https://www.bioconductor.org/) package for 
+[Bioconductor](https://www.bioconductor.org/) package for analysis of RNA methylation sequencing data.
 
 ---
 
 #### <a name="github"></a>[datasetTRES](https://github.com/ZhenxingGuo0015/datasetTRES)
 
-[R](https://www.r-project.org) data package for 
+[R](https://www.r-project.org) data package to store example dataset used by TRESS.
 
 
 #### <a name="github"></a>[foldSeq](https://github.com/ZhenxingGuo0015/Foldseq)
-[R](https://www.r-project.org) data package for 
+[R](https://www.r-project.org) data package for testing gene expression fold change from RNA-seq.
 
 
 ---
