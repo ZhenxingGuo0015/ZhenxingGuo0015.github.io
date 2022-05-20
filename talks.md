@@ -15,7 +15,7 @@ description: Zhenxing Guo's talks
 </div>
 
 ### <a name="Presentations"></a> Presentations
-* Guo, Z. Differential m$^6$A Analysis for MeRIP-seq Data under General Experimental Design. Poster Presentation at Georgia Statistics Day, Atlanta, GA Oct 2021 
+* Guo, Z. Differential m6A Analysis for MeRIP-seq Data under General Experimental Design. Poster Presentation at Georgia Statistics Day, Atlanta, GA Oct 2021 
 * Guo Z., Shafik A. M., Jin P., Wu Z., Wu H. Detecting m6A methylation regions from Methylated RNA Immunoprecipitation Sequencing. JSM 2021, Virtual  Aug 2021
 
 ### <a name="Talks"></a> Invited Talks/Lectures
