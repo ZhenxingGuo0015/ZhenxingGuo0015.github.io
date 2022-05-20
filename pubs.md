@@ -40,5 +40,4 @@ Reduced SARS-CoV-2 Vaccine Response in Patients Treated with Biologic Therapies 
 * A. M. Shafik, F. Zhang, **Z. Guo**, Q. Dai, K. Pajdzik, Y. Li, Y. Kang, B. Yao, H. Wu, C. He, E. G. Allen, R. Duan, P. Jin. N6-methyladenosine dynamics in neurodevelopment and aging, and its potential role in Alzheimer’s disease. _Genome Biology_, (2021), 22(1):1-19. [[link]](https://link.springer.com/article/10.1186/s13059-020-02249-z)
 
 ### <a name="chapters"></a>book chapters
-* Analyzing mRNA epigenetic sequencing data with TRESS![image](https://user-images.githubusercontent.com/58897867/169553953-3f133160-2ddf-44ed-8b10-4c96b28a4b22.png)
-
+* **Zhenxing Guo**, Andrew M. Shafik, Peng Jin, Zhijin Wu, Hao Wu (2022) Analyzing mRNA epigenetic sequencing data with TRESS. Methods in Molecular Biology (Springer Nature), _to present_ 
