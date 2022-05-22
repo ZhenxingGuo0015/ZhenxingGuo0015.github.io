@@ -45,7 +45,7 @@ keywords: statistics, biostatistics, biometrics,
 
 ### Bio
 
-I am now a Ph.D. candidate of the Department of Biostatistics and Bioformatics at Emory University, working with
+I am now a Ph.D. candidate of the <a href="https://www.sph.emory.edu/departments/bios/index.html">Department of Biostatistics and Bioformatics</a> at <a href="https://www.emory.edu/home/index.html"<Emory University</a>, working with
 Professor <a href="http://www.haowulab.org">Hao Wu</a>. My
 research interests focus on the development of statistically principled and computationally efficient methd and tools for the analysis of biomedical data, in particular, omics data. I have been working on RNA methylation data during my PhD study, where I developed an efficient R/Bioconductor package <a href="https://www.bioconductor.org/packages/release/bioc/html/TRESS.html">TRESS</a> to detect m6A methylation (the most abundant RNA modification), and differential m6A methylation. 
 In addition to methodology research,
