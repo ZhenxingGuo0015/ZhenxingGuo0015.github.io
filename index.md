@@ -47,13 +47,14 @@ keywords: statistics, biostatistics, biometrics,
 
 I am now a Ph.D. candidate of the Department of Biostatistics and Bioformatics at Emory University, working with
 Professor <a href="http://www.haowulab.org">Hao Wu</a>. My
-research interests focus on the development of statistically principled and computationally efficient methd and tools for the analysis of biomedical data, in particular, omics data. In addition to methodology research,
+research interests focus on the development of statistically principled and computationally efficient methd and tools for the analysis of biomedical data, in particular, omics data. I have been working on RNA methylation data during my PhD study, where I developed one efficient R/Bioconductor <a href="https://www.bioconductor.org/packages/release/bioc/html/TRESS.html">TRESS</a> to detect m6A methylation, (the most abundant RNA modification), and differential m6A methylation. 
+In addition to methodology research,
 I'm also interested in collaboration projects with clinician and Biologist. My collaboration project involves the study of asthma, cancer
 and Alzheimer's disease. 
 
 <p>
 I received a BS in <a href="http://www-en.hnu.edu.cn/">Applied Mathematics</a> in 2014 from the
-Hunan Univeristy;Changsha China, and a MS in <a href="http://english.amss.cas.cn/">Operational Research</a> in 2017 from the Academy of Mathematics and Systems Science at Chinese Academy of Sciences, Beijing; my MS advisor was <a href="http://www.zhanglab-amss.org/homepage/">Professor Shihua Zhang</a>. I will obtain my PhD degree in <a href="https://www.sph.emory.edu/departments/bios/index.html">Biostatistics</a> in summer 2022 from the Department of Biostatistics and Bioinformatics at Emory University; my PhD advisor is <a href="http://www.haowulab.org/">Professor Hao Wu</a>. I will join the <a href="https://www.cuhk.edu.cn/en/taxonomy/term/48">School of Data Science, Chinese Univeristy of Hong Kong, Shenzhen</a> as a tenure-track assistant professor in the fall of 2022. 
+Hunan Univeristy;Changsha China, and a MS in <a href="http://english.amss.cas.cn/">Operational Research</a> in 2017 from the Academy of Mathematics and Systems Science at Chinese Academy of Sciences, Beijing; my MS advisor was <a href="http://www.zhanglab-amss.org/homepage/">Professor Shihua Zhang</a>. I will obtain my PhD degree in <a href="https://www.sph.emory.edu/departments/bios/index.html">Biostatistics</a> in summer 2022 from the Department of Biostatistics and Bioinformatics at Emory University, where my PhD advisor is <a href="http://www.haowulab.org/">Professor Hao Wu</a>. After this, I will join the <a href="https://www.cuhk.edu.cn/en/taxonomy/term/48">School of Data Science, Chinese Univeristy of Hong Kong, Shenzhen</a> as a tenure-track assistant professor in the fall of 2022. 
 
 
 <p>
