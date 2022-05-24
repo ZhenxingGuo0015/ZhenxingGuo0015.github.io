@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Zhenxing Guo @ Emory Biostat
+title: Zhenxing Guo's page
 description: Zhenxing Guo is currently a Ph.D. candiadte in the Department of Biostatistics and Bioinformatics at Emory University 
 keywords: statistics, biostatistics, biometrics,
    bioinformatics, genomics,
