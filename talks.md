@@ -19,7 +19,7 @@ description: Zhenxing Guo's talks
 * Guo Z., Shafik A. M., Jin P., Wu Z., Wu H. Detecting m6A methylation regions from Methylated RNA Immunoprecipitation Sequencing. JSM 2021, Virtual  Aug 2021
 
 ### <a name="Talks"></a> Invited Talks/Lectures
-* Statistical method and tools for RNA methylation sequencing analysis. Virtual hosted by the [School of Data Science] (https://www.cuhk.edu.cn/en/taxonomy/term/48) at [The Chinese University of hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). (_April 2022_) 
+* Statistical method and tools for RNA methylation sequencing analysis. Virtual hosted by the [School of Data Science](https://www.cuhk.edu.cn/en/taxonomy/term/48) at [The Chinese University of hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). (_April 2022_) 
 
 * Statistical method and tools for RNA methylation sequencing analysis. Virtual hosted by the [Harry Feng lab](https://hfenglab.org/),
 [Department of Population and Quantitative Health Sciences, School of
