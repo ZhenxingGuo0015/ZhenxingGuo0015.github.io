@@ -34,9 +34,8 @@ description: Zhenxing Guo's publications
 
 
 **Collaborations**
-* Y. Pan, Y. Yang, K. Kathleen, G. Khalil, R. Kelly, B. Switzer, **Z. Guo** (202x) Simulation Study for Improving Efficacy Estimates for New HIV Treatments.  In preparation.
-* M. C. Runnstrom1, A. Morrison-Porter, M. Ravindran, H. Quehl, R. Ramonell, M. Woodruff, M. Kuruvilla, F. Anam, R. Swerlick, C. Swenson, C. Polito, W. Neveu, R. Patel, C. Kim, l. Hentenaar, **Z. Guo**, H. Wu, N. S. Haddad, J. L. Daiss, I. Sanz, F. E. Lee* (202x)
-Reduced SARS-CoV-2 Vaccine Response in Patients Treated with Biologic Therapies for Asthma. In preparation.
+* Y. Pan, K. Kathleen, **Z. Guo**, Y. Yang, G. Khalil, R. Kelly, B. Switzer (202x) Simulation Study for Improving Efficacy Estimates for New HIV Treatments. In preparation.
+* M. C. Runnstrom1, A. Morrison-Porter, M. Ravindran, H. Quehl, R. Ramonell, M. Woodruff, M. Kuruvilla, F. Anam, R. Swerlick, C. Swenson, C. Polito, W. Neveu, R. Patel, C. Kim, l. Hentenaar, **Z. Guo**, H. Wu, N. S. Haddad, J. L. Daiss, I. Sanz, F. E. Lee*. Reduced SARS-CoV-2 Vaccine Response in Patients Treated with Biologic Therapies for Asthma. Journal of Allergy and Clinical Immunology, 149(2):AB319, 2022. [[link]](https://www.jacionline.org/article/S0091-6749(21)01844-3/fulltext)
 * A. M. Shafik, F. Zhang, **Z. Guo**, Q. Dai, K. Pajdzik, Y. Li, Y. Kang, B. Yao, H. Wu, C. He, E. G. Allen, R. Duan, P. Jin. N6-methyladenosine dynamics in neurodevelopment and aging, and its potential role in Alzheimer’s disease. _Genome Biology_, (2021), 22(1):1-19. [[link]](https://link.springer.com/article/10.1186/s13059-020-02249-z)
 
 ### <a name="chapters"></a>book chapters
