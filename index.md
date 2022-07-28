@@ -42,7 +42,7 @@ keywords: statistics, biostatistics, biometrics,
 
 ### Bio
 
-I received my Ph.D. in Biostatistics in July 2022 from the <a href="https://www.sph.emory.edu/departments/bios/index.html">Department of Biostatistics and Bioformatics</a> at 
+I received my Ph.D. in <a href = "https://www.sph.emory.edu/departments/bios/index.html">Biostatistics</a> in July 2022 from the Department of Biostatistics and Bioformatics at 
 <a href="https://www.emory.edu/home/index.html">Emory University</a>, under the guidance of 
 Professor <a href="http://www.haowulab.org">Hao Wu</a>. My research interests focus on the development of statistically principled and computationally efficient methd and tools for the analysis of biomedical data, in particular, omics data. I have been working on RNA methylation data during my PhD study, where I developed an efficient R/Bioconductor package <a href="https://www.bioconductor.org/packages/release/bioc/html/TRESS.html">TRESS</a> to detect m6A methylation (the most abundant RNA modification), and differential m6A methylation. 
 In addition to methodology research,
@@ -51,7 +51,7 @@ and Alzheimer's disease.
 
 <p>
 Before my PhD at Emory, I received a BS in <a href="http://www-en.hnu.edu.cn/">Applied Mathematics</a> in 2014 from
-Hunan Univeristy, and a MS in Operational Research in 2017 from the <a href="http://english.amss.cas.cn/">Academy of Mathematics and Systems Science</a> at <a href="https://english.cas.cn/">Chinese Academy of Sciences</a>, under the guidance of Professor <a href="http://www.zhanglab-amss.org/homepage/">Shihua Zhang</a>. 
+Hunan Univeristy, and a MS in <a href="http://english.amss.cas.cn/">Operational Research</a> in 2017 from the Academy of Mathematics and Systems Science at <a href="https://english.cas.cn/">Chinese Academy of Sciences</a>, under the guidance of Professor <a href="http://www.zhanglab-amss.org/homepage/">Shihua Zhang</a>. 
 
 
 <p>
