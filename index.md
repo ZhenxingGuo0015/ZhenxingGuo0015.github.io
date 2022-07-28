@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Zhenxing Guo's page
-description: Zhenxing Guo is currently a Ph.D. candiadte in the Department of Biostatistics and Bioinformatics at Emory University 
+description: Zhenxing Guo is currently an Assistant Professor within School of Data Science at Chinese University of Hong Kong, Shenzhen.
 keywords: statistics, biostatistics, biometrics,
    bioinformatics, genomics,
    RNA Epigenetics, MeRIP-seq, TRESS
