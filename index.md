@@ -59,7 +59,7 @@ Hunan Univeristy, and a MS in Operational Research in 2017 from the <a href="htt
  <p>
   <a href="https://scholar.google.com.hk/citations?user=hm0mP4EAAAAJ&hl=zh-CN">Goolge Scholar</a>
 <p>
-  <a href="assets/Guo_CV.pdf">CV in pdf</a> 
+  <a href="assets/ZhenxingGuo_CV.pdf">CV in pdf</a> 
 <p>
 <p>
 
