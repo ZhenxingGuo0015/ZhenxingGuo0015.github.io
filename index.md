@@ -54,7 +54,7 @@ and Alzheimer's disease.
 
 <p>
 Before my PhD at Emory, I received a BS in <a href="http://www-en.hnu.edu.cn/">Applied Mathematics</a> in 2014 from the
-Hunan Univeristy;Changsha China, and a MS in <a href="http://english.amss.cas.cn/">Operational Research</a> in 2017 from the <a href="http://english.amss.cas.cn/">Academy of Mathematics and Systems Science</a> at <a href="https://english.cas.cn/">Chinese Academy of Sciences</a>, Beijing, under the guidance of Professor <a href="http://www.zhanglab-amss.org/homepage/">Shihua Zhang</a>. 
+Hunan Univeristy;Changsha China, and a MS in <a href="http://english.amss.cas.cn/">Operational Research</a> in 2017 from the <a href="http://english.amss.cas.cn/">Academy of Mathematics and Systems Science</a> at <a href="https://english.cas.cn/">Chinese Academy of Sciences</a>, under the guidance of Professor <a href="http://www.zhanglab-amss.org/homepage/">Shihua Zhang</a>. 
 
 
 <p>
