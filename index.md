@@ -50,7 +50,7 @@ I'm also interested in collaboration projects with clinician and Biologist. My c
 and Alzheimer's disease. 
 
 <p>
-Before my PhD at Emory, I received a BS in <a href="http://www-en.hnu.edu.cn/">Applied Mathematics</a> in 2014 from Hunan Univeristy, and a MS in <a href="http://english.amss.cas.cn/">Operational Research</a> in 2017 from the Academy of Mathematics and Systems Science at <a href="https://english.cas.cn/">Chinese Academy of Sciences</a>, under the guidance of Professor <a href="http://www.zhanglab-amss.org/homepage/">Shihua Zhang</a>. 
+Before my PhD at Emory, I received a BS in <a href="http://www-en.hnu.edu.cn/">Applied Mathematics</a> in 2014 from Hunan University, and a MS in <a href="http://english.amss.cas.cn/">Operational Research</a> in 2017 from the Academy of Mathematics and Systems Science at <a href="https://english.cas.cn/">Chinese Academy of Sciences</a>, under the guidance of Professor <a href="http://www.zhanglab-amss.org/homepage/">Shihua Zhang</a>. 
 
 
 <p>
