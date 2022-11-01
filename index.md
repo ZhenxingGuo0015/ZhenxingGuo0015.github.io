@@ -29,6 +29,9 @@ keywords: statistics, biostatistics, biometrics,
             <div id="hide_email">
                Email: <code>guozhenxing</code><code>@cuhk</code><code>.</code>edu.cn<br/>
             </div>
+            <div id="hide_phone">
+               Office phone: <code>235-17093<br/>
+            </div>
         </div>
 
     </div>
