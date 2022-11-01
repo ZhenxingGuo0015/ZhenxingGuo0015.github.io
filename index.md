@@ -27,8 +27,7 @@ keywords: statistics, biostatistics, biometrics,
 
            
             <div id="hide_email">
-            Email: <code>zhenxing</code><b>I</b><code>.</code><b>don't</b><code>guo</code><b>like</b><code>@emory</code><b>spam!
-            </b><code>.</code><b>So</b><code>edu</code><b>please</b><br/>
+               Email: <code>guozhenxing</code><code>@cuhk</code><code>.</code>edu.cn<br/>
             </div>
         </div>
 
