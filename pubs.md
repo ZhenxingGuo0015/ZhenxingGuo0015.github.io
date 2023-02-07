@@ -20,6 +20,8 @@ description: Zhenxing Guo's publications
 ### <a name="articles"></a>journal articles
 **Methodology work**: 
 #### MeRIP-seq
+* D. Duan, W. Tang, R. Shu, **Z. Guo**, H. Feng* (2023+) Evaluation of Differential Epitranscriptome
+Analysis Methods. Briefings in Bioinformatics Under revision.
 * **Z. Guo**, A. M. Shafik, P. Jin, H. Wu Differential RNA Methylation Analysis for MeRIP-seq Data under General Experimental Design. _Bioinformatics_, (2022). [[link]](https://doi.org/10.1093/bioinformatics/btac601)
 * **Z. Guo**, Andrew M Shafik, Peng Jin, Zhijin Wu, Hao Wu, Detecting m6A methylation regions from Methylated RNA Immunoprecipitation Sequencing. _Bioinformatics_, (2021). [[link]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab181/6173980)
 
@@ -39,4 +41,4 @@ description: Zhenxing Guo's publications
 * A. M. Shafik, F. Zhang, **Z. Guo**, Q. Dai, K. Pajdzik, Y. Li, Y. Kang, B. Yao, H. Wu, C. He, E. G. Allen, R. Duan, P. Jin. N6-methyladenosine dynamics in neurodevelopment and aging, and its potential role in Alzheimer’s disease. _Genome Biology_, (2021), 22(1):1-19. [[link]](https://link.springer.com/article/10.1186/s13059-020-02249-z)
 
 ### <a name="chapters"></a>book chapters
-* **Z. Guo**, A. Shafik, P. Jin, Z. Wu, H. Wu (2022) Analyzing mRNA epigenetic sequencing data with TRESS. Methods in Molecular Biology (Springer Nature), _to present_ 
+* **Z. Guo**, A. Shafik, P. Jin, Z. Wu, H. Wu (2023) Analyzing mRNA Epigenetic Sequencing Data with TRESS. In: H. Oliveira, P. (eds) Computational Epigenomics and Epitranscriptomics. Methods in Molecular Biology, vol 2624. Humana, New York, NY. [[link]](https://doi.org/10.1007/978-1-0716-2962-8_12)
