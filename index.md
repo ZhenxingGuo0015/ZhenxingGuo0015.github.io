@@ -61,6 +61,6 @@ Before my PhD at Emory, I received a BS in <a href="http://www-en.hnu.edu.cn/">A
 <p>
 <p>
 
-<!-- <img src="assets/pics/ZhenxingGuo.jpeg" width="100"> -->
+<!-- <img src="assets/pics/ZhenxingGuo_update.jpeg" width="100"> -->
 
 
