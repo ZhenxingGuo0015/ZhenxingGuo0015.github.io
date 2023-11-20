@@ -20,12 +20,15 @@ description: Zhenxing Guo's publications
 ### <a name="articles"></a>journal articles
 **Methodology work**: 
 #### MeRIP-seq
-* **Z. Guo**, D. Duan, W. Tang, J. Zhu, W. S. Bush, L. Zhang, X. Zhu, F. Jin, Hao Feng magpie: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing, _major revision at PLOS Computational Biology_.
-* D. Duan, W. Tang, R. Shu, **Z. Guo^***, H. Feng^* (2023) Evaluation of Epitranscriptome-wide N6-methyladenosine Differential Analysis Methods. _Briefings in Bioinformatics_, 24 (3), bbad139.
-* **Z. Guo**, A. M. Shafik, P. Jin, H. Wu Differential RNA Methylation Analysis for MeRIP-seq Data under General Experimental Design. _Bioinformatics_, (2022). [[link]](https://doi.org/10.1093/bioinformatics/btac601)
-* **Z. Guo**, Andrew M Shafik, Peng Jin, Zhijin Wu, Hao Wu, Detecting m6A methylation regions from Methylated RNA Immunoprecipitation Sequencing. _Bioinformatics_, (2021). [[link]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab181/6173980)
+* **Z Guo**, D Duan, W Tang, J Zhu, W S Bush, L Zhang, X Zhu, F Jin, H Feng, magpie: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing, _major revision at PLOS Computational Biology_, 2023.
+* D Duan, W Tang, R Shu, **Z Guo^***, H Feng^*, Evaluation of Epitranscriptome-wide N6-methyladenosine Differential Analysis Methods. _Briefings in Bioinformatics_, 24 (3), bbad139, 2023.
+* **Z Guo**, A M Shafik, P Jin, H Wu Differential RNA Methylation Analysis for MeRIP-seq Data under General Experimental Design. _Bioinformatics_, (2022). [[link]](https://doi.org/10.1093/bioinformatics/btac601)
+* **Z Guo**, Andrew M Shafik, Peng Jin, Zhijin Wu, Hao Wu, Detecting m6A methylation regions from Methylated RNA Immunoprecipitation Sequencing. _Bioinformatics_, (2021). [[link]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab181/6173980)
 
-#### RNA-seq
+#### scRNA-seq
+* L Chen, **Z Guo**, T Deng, H Wu, scCTS: identifying the cell type specific marker genes from population-level single-cell
+RNA-seq . _Under review at Genome Biology_, 2023. 
+#### Bulk RNA-seq
 * **Z Guo**, Y Cui, X Shi, JA Birchler, I Albizua, SL Sherman, ZS Qin, T Ji. An empirical bayesian approach for testing gene expression fold change and its application in detecting global dosage effects. _NAR Genomics and Bioinformatics_, (2020), 2(3):lqaa072. [[Link]]( https://academic.oup.com/nargab/article/2/3/lqaa072/5908375)
 * Z Li, **Z Guo**, Y Cheng, P Jin, H Wu. Robust partial reference-free cell composition estimation from tissue expression. _Bioinformatics_, (2020), 36(11): 3431-3438. [[Link]]( https://academic.oup.com/bioinformatics/article/36/11/3431/5804977)
 
