@@ -20,7 +20,7 @@ description: Zhenxing Guo's publications
 ### <a name="articles"></a>journal articles
 **Methodology work**: 
 #### MeRIP-seq
-* **Z Guo$^\dag$**, D Duan, W Tang, J Zhu, W S Bush, L Zhang, X Zhu, F Jin, H Feng, magpie: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing, _major revision at PLOS Computational Biology_, 2023.
+* **Z Guo$^\dag$**, D Duan$^\dag$, W Tang, J Zhu, W S Bush, L Zhang, X Zhu, F Jin, H Feng, magpie: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing, _major revision at PLOS Computational Biology_, 2023.
 * D Duan, W Tang, R Shu, **Z Guo^***, H Feng^*, Evaluation of Epitranscriptome-wide N6-methyladenosine Differential Analysis Methods. _Briefings in Bioinformatics_, 24 (3), bbad139, 2023.
 * **Z Guo**, A M Shafik, P Jin, H Wu Differential RNA Methylation Analysis for MeRIP-seq Data under General Experimental Design. _Bioinformatics_, (2022). [[link]](https://doi.org/10.1093/bioinformatics/btac601)
 * **Z Guo**, Andrew M Shafik, Peng Jin, Zhijin Wu, Hao Wu, Detecting m6A methylation regions from Methylated RNA Immunoprecipitation Sequencing. _Bioinformatics_, (2021). [[link]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab181/6173980)
