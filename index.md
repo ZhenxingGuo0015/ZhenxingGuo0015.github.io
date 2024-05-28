@@ -14,8 +14,8 @@ keywords: statistics, biostatistics, biometrics,
     <div class="row-fluid">
         
         <div class="span2">
-            <a href="assets/pics/ZhenxingGuo.jpeg">
-            <img src="assets/pics/ZhenxingGuo.jpeg"
+            <a href="assets/pics/Zhenxing.jpg">
+            <img src="assets/pics/Zhenxing.jpg"
                   title="Zhenxing Guo" alt="Zhenxing Guo"  width="300"/></a>
         </div>
 
@@ -61,6 +61,6 @@ Before my PhD at Emory, I received a BS in <a href="http://www-en.hnu.edu.cn/">A
 <p>
 <p>
 
-<!-- <img src="assets/pics/ZhenxingGuo_update.jpeg" width="100"> -->
+<!-- <img src="assets/pics/Zhenxing.jpg" width="100"> -->
 
 
