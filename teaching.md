@@ -5,8 +5,11 @@ description: Zhenxing Guo's teaching
 ---
 
 #### Teaching at SDS of CUHKsz 
- - Spring 2023 & 2024: STA3002/STA4102 Generalized Linear Models 
- - Spring 2023 & 2024: STA2004 Mathematical Statistics (1 Session) 
+ - Summer 2024: STA2002 Probability and Statistics II
+ - Spring 2024: STA2004 Mathematical Statistics (1 Session) 
+ - Spring 2024: STA3002/STA4102 Generalized Linear Models 
+ - Spring 2023: STA3002/STA4102 Generalized Linear Models 
+ - Spring 2023: STA2004 Mathematical Statistics (1 Session) 
 
 #### Teaching at Emory 
 - Teaching assistant Fall 2020: BIOS 731 Advanced statistical computing.
